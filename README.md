@@ -9,4 +9,4 @@
 >
 > Here's some example code:
 >
->       retrun sheel_exec("echo $input | $markdown_script");
+>       return sheel_exec("echo $input | $markdown_script");
